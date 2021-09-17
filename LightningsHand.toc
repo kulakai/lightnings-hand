@@ -1,0 +1,10 @@
+## Interface: 90100
+## Title: Lightnings Hand
+## Version: 9.1.0.1
+## Notes: Lightnings Hand Raid Tools
+
+## Author: kula
+## License: All rights reserved. Do not modify or redistribute.
+## X-Website: https://github.com/kulakai/lightnings-hand
+## SavedVariablesPerCharacter: LH_PC
+LH.lua
