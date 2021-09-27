@@ -10,3 +10,4 @@
 ## SavedVariablesPerCharacter: LH_Char
 
 LH.lua
+itemlevel.lua
