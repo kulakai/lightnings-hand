@@ -3,8 +3,10 @@
 ## Version: 9.1.0.1
 ## Notes: Lightnings Hand Raid Tools
 
-## Author: kula
-## License: All rights reserved. Do not modify or redistribute.
+## Author: Kula
+## License: Copyright 2021 by Beth Macknik. This project is licensed under the MIT license; see the file LICENSE for more information.
 ## X-Website: https://github.com/kulakai/lightnings-hand
-## SavedVariablesPerCharacter: LH_PC
+## SavedVariables: LH_Core
+## SavedVariablesPerCharacter: LH_Char
+
 LH.lua
